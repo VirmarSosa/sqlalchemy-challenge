@@ -42,6 +42,7 @@ Precipitation Analysis
 
 
 Station Analysis
+
 1.	Design a query to calculate the total number of stations in the dataset.
 
 2.	Design a query to find the most-active stations (that is, the stations that have the most rows). 
@@ -50,11 +51,11 @@ Station Analysis
 
 4.	Design a query to get the previous 12 months of temperature observation (TOBS) data. To do so, complete the following steps:
 
-  •	Filter by the station that has the greatest number of observations.
+    •	Filter by the station that has the greatest number of observations.
 
-  •	Query the previous 12 months of TOBS data for that station.
+    •	Query the previous 12 months of TOBS data for that station.
 
-  •	Plot the results as a histogram with bins=12
+    •	Plot the results as a histogram with bins=12
 
 
 5.	Close your session.
